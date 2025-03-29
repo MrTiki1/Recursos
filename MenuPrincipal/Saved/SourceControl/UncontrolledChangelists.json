@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/violanteagus/Desktop/MenuPrincipal/Content/Mapas/MenuPrincipal.umap",
+				"C:/Users/violanteagus/Desktop/MenuPrincipal/Content/UI/BP_UIMenu.uasset",
+				"C:/Users/violanteagus/Desktop/MenuPrincipal/Content/Assets/58160.uasset",
+				"C:/Users/violanteagus/Desktop/MenuPrincipal/Content/Mapas/PrimerMapa.umap",
+				"C:/Users/violanteagus/Desktop/MenuPrincipal/Content/UI/BP_UIOpciones.uasset",
+				"C:/Users/violanteagus/Desktop/MenuPrincipal/Content/GameMode/GM_PrincipalMenu.uasset"
+			]
+		}
+	]
+}
